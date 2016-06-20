@@ -2,3 +2,8 @@ Nome artefato: HigorQuintao.txt
 Nome do(a) autor(a): Higor André Quintão
 Data de criação: 17/06/2016
 Hora de criação: 20:51:00
+
+Nome artefato: HigorQuintao.txt
+Nome do(a) autor(a) da alteração: Bruno Martins de Carvalho
+Data da alteração: 20/06/2016
+Hora da alteração: 13:26:00
