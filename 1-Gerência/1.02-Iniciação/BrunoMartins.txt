@@ -2,3 +2,8 @@ Nome artefato: BrunoMartins.txt
 Nome do(a) autor(a): Bruno Martins de Carvalho
 Data de criação: 13/06/2016
 Hora de criação: 23:48:00
+
+Nome artefato: BrunoMartins.txt
+Nome do(a) autor(a) da alteração: Douglas Soares Pereira
+Data da alteração: 19/06/2016
+Hora da alteração: 23:40:00
