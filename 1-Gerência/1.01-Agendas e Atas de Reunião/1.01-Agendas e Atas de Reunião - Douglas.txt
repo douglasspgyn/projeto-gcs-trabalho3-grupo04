@@ -2,3 +2,8 @@ Nome artefato: 1.01-Agendas e Atas de Reunião - Douglas.txt
 Nome do(a) autor(a): Douglas Soares Pereira
 Data de criação: 14/06/2016
 Hora de criação: 12:22:00
+
+Nome artefato: 1.01-Agendas e Atas de Reunião - Douglas.txt
+Nome do(a) autor(a) da alteração: Higor André Quintão
+Data da alteração: 20/06/2016
+Hora da alteração: 20:37:00
