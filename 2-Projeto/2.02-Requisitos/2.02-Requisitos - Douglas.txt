@@ -1,4 +1,12 @@
 Nome artefato: 2.02-Requisitos - Douglas.txt
 Nome do(a) autor(a): Douglas Soares Pereira
+Novo conteudo...
+Novo conteudo2...
+Novo conteudo3...
 Data de criacao: 20/06/2016
 Hora de criacao: 21:09:00
+
+
+Nova conteudo fim do documento..
+Nova conteudo fim do documento2..
+Nova conteudo fim do documento3..
