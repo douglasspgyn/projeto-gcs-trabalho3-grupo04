@@ -1,4 +1,6 @@
 Nome artefato: 2.02-Requisitos - Douglas.txt
 Nome do(a) autor(a): Douglas Soares Pereira
-Data de criação: 20/06/2016
-Hora de criação: 20:45:00
+Data de criaÃ§Ã£o: 20/06/2016
+Hora de criaÃ§Ã£o: 20:45:00
+
+Nova linha trunk...
