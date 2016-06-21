@@ -1,0 +1,6 @@
+Nome artefato: BrunoMartins3.txt
+Nome do(a) autor(a) da alteração: Bruno Martins de Carvalho
+Data da alteração: 20/06/2016
+Hora da alteração: 21:17:0 
+
+documento criado no trunk
